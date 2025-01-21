@@ -65,5 +65,3 @@ function App() {
 export default App;
 
 
-// Yash Jaiswal
-// Ankit Raj
